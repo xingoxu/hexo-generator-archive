@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-archive",
+  "name": "hexo-generator-archive-i18n",
   "version": "0.1.4",
   "description": "Archive generator for Hexo.",
   "main": "index",
@@ -19,7 +19,7 @@
     "generator",
     "archive"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "xingoxu <xingoxu@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "chai": "^1.9.1",
